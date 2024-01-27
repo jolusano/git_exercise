@@ -1,3 +1,9 @@
+Foods:
 Lomo saltado
 Pollo a la brasa
 Papa rellena
+
+Movies:
+titanic
+spideran
+avatar
